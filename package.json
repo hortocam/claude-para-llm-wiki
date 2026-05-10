@@ -1,0 +1,24 @@
+{
+  "name": "claude-para-llm-wiki",
+  "version": "0.1.0",
+  "description": "Claude Code plugin: PARA-structured Obsidian vault with LLM-maintained wiki and hardened inbox ingestion",
+  "keywords": ["claude", "obsidian", "PARA", "knowledge-management", "llm", "second-brain"],
+  "license": "MIT",
+  "bin": {
+    "claude-para-llm-wiki": "./install.sh"
+  },
+  "files": [
+    "install.sh",
+    "vault-CLAUDE.md",
+    "routing-rules.md",
+    "skills/",
+    "commands/",
+    "hooks/",
+    "src/",
+    "templates/",
+    "config/"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
