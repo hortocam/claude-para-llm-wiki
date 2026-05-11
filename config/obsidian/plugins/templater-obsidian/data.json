@@ -1,0 +1,17 @@
+{
+  "template_folder": "_Templates",
+  "auto_jump_to_cursor": true,
+  "trigger_on_file_creation": false,
+  "enable_system_commands": false,
+  "templates_pairs": [],
+  "folder_templates": [
+    {
+      "folder": "05-Daily",
+      "template": "_Templates/Daily/daily-note.md"
+    },
+    {
+      "folder": "01-Projects",
+      "template": "_Templates/Projects/project-index.md"
+    }
+  ]
+}

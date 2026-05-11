@@ -1,0 +1,15 @@
+{
+  "globalQuery": "",
+  "globalFilter": "",
+  "removeGlobalFilter": false,
+  "setDoneDate": true,
+  "autoSuggestInEditor": true,
+  "autoSuggestMinMatch": 0,
+  "autoSuggestMaxItems": 6,
+  "provideAccessKeys": true,
+  "useFilenameAsScheduledDate": false,
+  "filenameAsDateFolders": ["05-Daily"],
+  "filenameAsDateFormat": "YYYY-MM-DD",
+  "statusTypes": [],
+  "recurrenceOnNextLine": false
+}
