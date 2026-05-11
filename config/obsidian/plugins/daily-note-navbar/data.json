@@ -1,0 +1,8 @@
+{
+  "dailyNoteFolder": "05-Daily",
+  "dailyNoteFolderFormat": "YYYY/MM",
+  "dailyNoteFormat": "YYYY-MM-DD",
+  "navbarDateFormat": "ddd, MMM D",
+  "showNavbar": true,
+  "navbarPosition": "top"
+}

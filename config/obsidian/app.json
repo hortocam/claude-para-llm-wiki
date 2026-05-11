@@ -1,0 +1,19 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "foldIndent": true,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "spellcheck": true,
+  "spellcheckLanguages": ["en"],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00-Inbox",
+  "attachmentFolderPath": "00-Inbox/_attachments",
+  "promptDelete": true,
+  "trashOption": "local",
+  "userIgnoreFilters": [".hot-cache.json"],
+  "theme": "moonstone"
+}
